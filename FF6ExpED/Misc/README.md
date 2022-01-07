@@ -1,0 +1,1 @@
+The classes `ByteUtils.cs` and `Rom.cs` have been taken from the open source FF6 editor [ZoneDoctor v3.8.4](https://www.romhacking.net/utilities/678/) and have been modified for the purpose of this project.

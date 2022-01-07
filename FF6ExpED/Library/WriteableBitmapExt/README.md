@@ -1,0 +1,1 @@
+All the code in this directory has been taken from the [WriteableBitmapEx](https://github.com/reneschulte/WriteableBitmapEx) library.

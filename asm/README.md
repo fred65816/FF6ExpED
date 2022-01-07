@@ -1,0 +1,1 @@
+The file hack.asm contains a partial version of the code changes for reference only, excluding the steal hack and relocation of the drop/steal table. The file can be assembled with [xkas 0.06](https://www.romhacking.net/utilities/269/).
